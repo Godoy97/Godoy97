@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Godoy97
-- 👀 I’m interested in Data Science and Optimization
-- 🌱 I’m currently implementing Predictors in the bleaching process in the Paper Industry
+- 👀 I’m interested in Data Science, Optimization and Machine Learning
+- 🌱 I’m currently Developing Loken and my thesis in implementing Predictors in the bleaching process in the Paper Industry
 - 💞️ Co-Founder @ [Loken](https://www.linkedin.com/company/loken-software)
 - 📫 How to reach me: godoydaniel97@gmail.com
 
