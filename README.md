@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Godoy97
 - 👀 I’m interested in Data Science and Optimization
 - 🌱 I’m currently implementing Predictors in the bleaching process in the Paper Industry
-- 💞️ I’m looking to collaborate on ... (Busy at the moment developing Thesis)
+- 💞️ Co-Founder @ www.Loken.cl
 - 📫 How to reach me: godoydaniel97@gmail.com
 
 <!---
