@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Godoy97
 - 👀 I’m interested in Data Science & Machine Learning, Optimization and lately on FullStack Developer. 🖥️
-- 🤖 I’m currently Developing a monitoration system for the "Great Mining" of Chile
+- ✅ Develop a monitoration system for the "Great Mining" of Chile.
+- 🏗️ Helping business with tech. @ [Atmos](www.atmos.codes)
 - 💞️ Co-Founder @ [Loken SUP BUILD 3](https://www.linkedin.com/company/loken-software)
 - 🚗 Co-Founder @ [Pooler SUP BUILD 6](https://www.pooler.cl/)
 - 
